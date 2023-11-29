@@ -1,0 +1,2 @@
+D:\
+-----------full path for the folder to copy-----------------
