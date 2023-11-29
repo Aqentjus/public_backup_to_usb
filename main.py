@@ -1,7 +1,7 @@
 #aqentjus 2023
 import os
 import shutil
-import sys
+#import sys
 
 def copy_folders(source_path, destination_path):
     try:
@@ -46,4 +46,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    sys.exit()
+    #sys.exit()
