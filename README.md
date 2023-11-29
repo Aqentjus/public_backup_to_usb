@@ -7,7 +7,15 @@ How to Use:
 Prepare Text File:
 
 Create a text file (folder_paths.txt) containing folder paths, one per line.
-The first line should specify the destination USB drive path.(example. D\)
+The first line should specify the destination USB drive path.
+
+example:
+
+E:\BackupDestination  <=== where to back up
+C:\Users\YourUsername\Documents\ImportantFiles <=== what to back up
+D:\Projects\ProjectFolder <=== what to back up
+F:\Photos\VacationPics <=== what to back up
+
 
 Run the Script:
 
